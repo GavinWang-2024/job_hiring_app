@@ -10,7 +10,7 @@
 
 # Job Hiring App
 
-A web application for managing job applications, posting job listings, and reviewing candidates.
+A web application for managing job applications, posting job listings, and reviewing candidates made in React.
 
 ## Table of Contents
 
@@ -22,8 +22,7 @@ A web application for managing job applications, posting job listings, and revie
 
 ## Features
 
-- Post and manage job listings
-- Review and manage candidate applications
+-Create, update, delete job listings
 - Responsive design using Tailwind CSS
 
 
